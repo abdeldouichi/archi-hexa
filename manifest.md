@@ -1,3 +1,9 @@
-## [main webinar] (http://douichi.info/webinars/archi-hexa.mp4)
-## [main repositories] (https://github.com/HEIWA-IT) 
+## main webinar direct 
+[main webinar direct] (http://douichi.info/webinars/archi-hexa.mp4)
+
+## main webinar youtube page 
+[main webinar youtube page] (https://www.youtube.com/watch?v=mXe_h4cb9fM)
+
+## main repositories
+[main repositories] (https://github.com/HEIWA-IT) 
 
